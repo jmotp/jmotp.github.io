@@ -1,0 +1,35 @@
+#header
+{
+  height: 12%;
+  display: flex;
+  align-items: flex-start;
+  border-bottom: 1px solid grey;
+  background-color: 	#9A999F;
+}
+
+#header h1{
+  font-size: 40px;
+  margin:auto;
+  margin-left: 10px;
+}
+#content {
+
+}
+
+.menu-item{
+  background-color: red;
+  color: white;
+}
+#menu{
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+  width:15%;
+}
+
+
+*{
+  margin: 0px;
+  padding:0px;
+  font-family: 'Roboto';
+}
